@@ -2,7 +2,7 @@
 Talks about privacy in regards to mycroft
 
 ## About
-This skill is supposed to provide greater information transparency about mycroft to the user and helps the user reflect on their privacy and what they have consented in using the mycroft service.
+This skill is supposed to provide greater information transparency about mycroft to the user and helps the user reflect on their privacy and what they have consented to in using the mycroft service.
 
 ## Examples
 * "Tell me about my data"
@@ -30,4 +30,3 @@ Adam Naldal
 #Data
 #Consent
 #Insight
-
